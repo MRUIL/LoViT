@@ -4,7 +4,7 @@ This work is proposed for online surgical phase recognition task, and the full c
 The core code of getting transition map is also available.
 
 ## The trained weight
-The trained temporally-rich spatial feature extractor weight and the extracted features on Cholec80 and AutoLapro are available at:[OneDrive Link](https://emckclac-my.sharepoint.com/:f:/g/personal/k21073807_kcl_ac_uk/EpShcwpjssRGomJdcEhfZ68B6bNAt_WAVKfOrtrUfI-Bgw?e=YPJNpf).
+The trained temporally-rich spatial feature extractor weight and the extracted features on Cholec80 and AutoLapro are available at: [OneDrive Link](https://emckclac-my.sharepoint.com/:f:/g/personal/k21073807_kcl_ac_uk/EpShcwpjssRGomJdcEhfZ68B6bNAt_WAVKfOrtrUfI-Bgw?e=YPJNpf).
 
 ## How to use the trained weight
 ```
