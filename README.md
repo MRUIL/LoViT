@@ -1,5 +1,5 @@
 # LoViT
-This work is proposed for surgical phase recognition task, and the full code is not available now because of the patent and review process. But the extracted features and trained spatial feature extractor weight on Cholec80 and AutoLaparo are vailable now.
+This work is proposed for online surgical phase recognition task, and the full code is not available now because of the patent and review process. But the extracted features and trained spatial feature extractor weight on Cholec80 and AutoLaparo are vailable now.
 
 The core code of getting transition map is also available.
 
