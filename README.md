@@ -14,7 +14,7 @@ def extracted_spatial_feature(video, TIMM):
   '''
   feats = TIMM(video_gpu) #B, 768, len, 1, 1
   
-TIMM = torch.load('Trained_VIT_Cholec80.pth') # Should have the `models' folder that saves the class
+TIMM = torch.load('Trained_VIT_Cholec80.pth') # Should have the `models' folder that saves the class, timm version: 0.4.12
 ```
 ## How to use the extracted features directly
 ```
